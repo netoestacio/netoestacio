@@ -98,11 +98,11 @@
 
  <span>
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB"/>
 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=java&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 
@@ -152,7 +152,7 @@
 
   
 
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
+![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=netoestacio&show_icons=true&theme=tokyonight)
 
 
 
